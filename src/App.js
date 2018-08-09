@@ -5,6 +5,7 @@ import 'react-fontawesome'
 import Header from './common/Header';
 import About from './common/About';
 import Content from './Content';
+import Portfolio from './Portfolio';
 
 class App extends Component {
   render() {
@@ -16,6 +17,7 @@ class App extends Component {
         <Header />
         <About />
         <Content />
+        <Portfolio />
       </div>
     );
   }
