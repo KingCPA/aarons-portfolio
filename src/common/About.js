@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './About.css';
 import 'tachyons';
 import { SocialIcon } from 'react-social-icons';
-import socialIcon from 'react-social-icons/lib/social-icon';
+
 
 
 class About extends Component {
