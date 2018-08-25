@@ -7,9 +7,9 @@ class Header extends Component {
     return (
         <div className="topnav">
         <a className="active" href="#home">Home</a>
-        <a href="#Motivation">Motivation</a>
-        <a href="#Interests">Interests and Hobbies</a>
-        <a href="#about">About</a>
+        <a href="/projects">Projects</a>
+        <a href="/interests">Interests and Hobbies</a>
+        <a href="/about">About</a>
       </div>
     );
   }

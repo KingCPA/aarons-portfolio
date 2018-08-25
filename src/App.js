@@ -6,6 +6,7 @@ import Header from './common/Header';
 import About from './common/About';
 import Content from './Content';
 import Portfolio from './Portfolio';
+import { Switch, Route, withRouter } from 'react-router-dom';
 
 class App extends Component {
   render() {
@@ -18,9 +19,13 @@ class App extends Component {
         <About />
         <Content />
         <Portfolio />
+        <Switch>
+        <Route exact path="/" component={App} />
+        <Route exact path="/about" component={About} />
+        </Switch>
       </div>
     );
   }
 }
 
-export default App;
+export default withRouter(App);
