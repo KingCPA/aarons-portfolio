@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './Header.css';
 import 'tachyons';
+import { Link } from 'react-router-dom';
 
 class Header extends Component {
   render() {
@@ -9,7 +10,7 @@ class Header extends Component {
         <a className="active" href="#home">Home</a>
         <a href="/projects">Projects</a>
         <a href="/interests">Interests and Hobbies</a>
-        <a href="/about">About</a>
+        <Link to='/about'><a href="/about">About</a></Link>
       </div>
     );
   }
