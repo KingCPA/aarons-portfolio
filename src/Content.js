@@ -15,7 +15,8 @@ class Content extends Component {
      <h3>Interests and Hobbies</h3>
      <p>I love to learn new languages, I am very interested in blockchain. 
        I love Snooker and motorbikes, while I have always loved superbikes 
-       I have now chaged focus towards Harley Davidson</p>
+       I have now chaged focus towards Harley Davidson. 
+       I am also interested in helping with mental health in the work place</p>
     </div>
     );
   }
