@@ -11,6 +11,9 @@ class Portfolio extends Component {
                     <img src={kodflix} alt='logo' />
                     <p>Building the next Netflix with Kodflix: Tech used was - ReactJS, NodeJS, ExpressJS and MongoDB</p>
                 </div>
+                <div>
+                    <p>Homeless and Hungry</p>
+                </div>
             </div>
         );
     }
