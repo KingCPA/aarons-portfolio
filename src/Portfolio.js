@@ -15,6 +15,12 @@ class Portfolio extends Component {
                 <div>
                     <p>Homeless and Hungry</p>
                     <p>With Homeless and Hungry, the technology used was: ReactJS, CSS3 and HTML5</p>
+                    <li>Accomodation</li>
+                    <li>Clothing</li>
+                    <li>Washing</li>
+                    <li>Medical</li>
+                    <li>Help</li>
+                    <li>Food</li>
                 </div>
             </div>
         );
