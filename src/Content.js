@@ -7,8 +7,7 @@ class Content extends Component {
     return (
       <div className="container">
      <h3>Who am I?</h3>
-     <p>My name is Aaron King and I am a Front-End Software Engineer,
-       I am based in the South East of London.</p>
+     <p>My name is Aaron King and I am a Software Engineer, based in the South East of London.</p>
      <h3>Motivation</h3>
      <p>I love to code, I want to be able to put ideas into practice, 
        I also wanted to work with a team where we are making a real difference to the public</p>
