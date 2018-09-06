@@ -10,7 +10,7 @@ class Content extends Component {
      <p>My name is Aaron King and I am a Software Engineer, based in the South East of London.</p>
      <h3>Motivation</h3>
      <p>I love to code, I want to be able to put ideas into practice, 
-       I also wanted to work with a team where we are making a real difference to the public</p>
+       I also want to work with a team where we are making a real difference to peoples lives</p>
      <h3>Interests and Hobbies</h3>
      <p>I love to learn new languages, I am very interested in blockchain. 
        I love Snooker and motorbikes, while I have always loved superbikes 
